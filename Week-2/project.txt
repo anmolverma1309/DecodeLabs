@@ -1,0 +1,116 @@
+
+--- Page 1 ---
+Industrial Training Kit
+Batch:  2026 | Powered by DecodeLabs
+Artificial IntelligenceProject 2
+
+--- Page 2 ---
+WELCOME TO THE TEAM! 🚀
+Step in to the r ole of an Artificial In tellig ence Engineer a t
+DecodeLabs . Project 2 is y our pr edictiv e phase: Da ta
+Classifica tion Using AI. This tr ack isn 't about "simple
+rules" an ymor e—it 's about Supervised Learning. Bef ore
+you div e into comple x neur al netw orks , you must
+mast er the fundamen tal pipeline of t eaching a machine
+to recogniz e pa tterns in da ta and ca tegorize new
+informa tion based on wha t it has learned. By
+completing this milest one, you ar e pr oving y ou can
+train, t est, and v alida te an AI model thr ough pur e
+algorithmic lo gic. Let ’s design a digital f ounda tion tha t
+empo wers machines t o mak e intellig ent decisions with
+absolut e pr ecision.
+
+--- Page 3 ---
+Qualification Criteria
+GUIDELINES:
+EARN YOUR BADGE 🛡
+Requirement: Complete project 2 to unlock
+other projects for next week.
+Standard: All projects must be verified for
+quality.
+Mandatory: Project 2 is the vital bridge to
+professional development for every intern.
+
+--- Page 4 ---
+Goal:
+Build a basic classification model
+using a small dataset.
+Key Requirements:
+• Load and understand a dataset
+• Split data into training and
+testing sets
+• Apply a simple classification
+algorithm
+Key Skills:
+Data handling, supervised
+learning basics, model training Project 2:
+ Data Classification
+Using AI 
+
+
+--- Page 5 ---
+DecodeLabs
+
+--- Page 6 ---
+DecodeLabs
+
+--- Page 7 ---
+DecodeLabs
+
+--- Page 8 ---
+DecodeLabs
+
+--- Page 9 ---
+DecodeLabs
+
+--- Page 10 ---
+DecodeLabs
+
+--- Page 11 ---
+DecodeLabs
+
+--- Page 12 ---
+DecodeLabs
+
+--- Page 13 ---
+DecodeLabs
+
+--- Page 14 ---
+DecodeLabs
+
+--- Page 15 ---
+DecodeLabs
+
+--- Page 16 ---
+DecodeLabs
+
+--- Page 17 ---
+DecodeLabs
+
+--- Page 18 ---
+DecodeLabs
+
+--- Page 19 ---
+DecodeLabs
+
+--- Page 20 ---
+CONCLUSION
+CONCLUSIONThe absolute best way to master Artificial Intelligence
+is through hands-on practice, not just theory. Don't
+just aim to complete these projects; take them one by
+one, experiment with unique solutions—like comparing
+different algorithms or testing your model with
+completely new data—and treat every low accuracy
+score as a learning opportunity. As you build these
+milestones at DecodeLabs, you are creating a real-
+world portfolio that showcases your supervised
+learning skills to future employers. Your journey to
+becoming a professional AI engineer begins right here,
+right now, with the very first model you train today.
+
+--- Page 21 ---
+THANK YOU 
+📞  +91 89330 06408
+✉ decodelabs.tech@gmail.com
+🌎 www.decodelabs.tech
+📍 GREATER LUCKNOW, INDIA 
