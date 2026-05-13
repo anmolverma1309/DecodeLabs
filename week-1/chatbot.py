@@ -1,4 +1,6 @@
 def chatbot():
+            elif user_input in ['what is your name?', 'who are you?', 'what are you?']:
+                print("Chatbot: I am a simple Rule-Based AI Chatbot built for DecodeLabs Project 1.")
     print("🤖 Welcome to the Rule-Based AI Chatbot!")
     print("Type 'quit', 'exit', or 'bye' to end the conversation.\n")
     
