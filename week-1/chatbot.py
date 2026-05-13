@@ -8,6 +8,15 @@ def chatbot():
         if user_input in ['quit', 'exit', 'bye', 'goodbye']:
             print("Chatbot: Goodbye! Have a great day!")
             break
+        elif user_input in ['hello', 'hi', 'hey', 'greetings']:
+            print("Chatbot: Hello there! Are you an intern at DecodeLabs? (yes/no)")
+            intern_status = input("You: ").strip().lower()
+            if intern_status in ['yes', 'y', 'yeah']:
+                print("Chatbot: That's awesome! Good luck with Project 1!")
+            elif intern_status in ['no', 'n', 'nope']:
+                print("Chatbot: Nice to meet you anyway! How can I help you today?")
+            else:
+                print("Chatbot: I'll take that as a maybe! How can I help you today?")
         
         elif user_input in ['hello', 'hi', 'hey', 'greetings']:
             print("Chatbot: Hello there! Are you an intern at DecodeLabs? (yes/no)")
