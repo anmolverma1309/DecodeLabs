@@ -17,6 +17,8 @@ def chatbot():
                 print("Chatbot: Nice to meet you anyway! How can I help you today?")
             else:
                 print("Chatbot: I'll take that as a maybe! How can I help you today?")
+        elif user_input in ['how are you?', 'how are you doing?', 'how are you']:
+            print("Chatbot: I'm just a rule-based AI, but I'm doing great! How about you?")
         
         elif user_input in ['hello', 'hi', 'hey', 'greetings']:
             print("Chatbot: Hello there! Are you an intern at DecodeLabs? (yes/no)")
