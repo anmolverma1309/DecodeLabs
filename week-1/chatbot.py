@@ -1,4 +1,8 @@
 def chatbot():
+                    elif user_input in ['what can you do?', 'help', 'capabilities']:
+                        print("Chatbot: I can respond to basic greetings, answer simple questions about myself, and chat with you based on predefined rules!")
+                    elif user_input in ['who created you?', 'creator', 'who made you?']:
+                        print("Chatbot: I was created by a talented intern: Anmol Verma at DecodeLabs!")
             elif user_input in ['what is your name?', 'who are you?', 'what are you?']:
                 print("Chatbot: I am a simple Rule-Based AI Chatbot built for DecodeLabs Project 1.")
     print("🤖 Welcome to the Rule-Based AI Chatbot!")
