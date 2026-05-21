@@ -9,7 +9,7 @@ Build a basic classification model using the Iris dataset to predict iris specie
 - **Name:** Iris Benchmark
 - **Samples:** 150 flower samples
 - **Features:** 4 (sepal length, sepal width, petal length, petal width)
-- **Classes:** 3 (Setosa, Versicolor, Virginica)
+- **Classes:** 3 (Setosa, Versicolor, Virginica) 
 
 ## Algorithm
 **K-Nearest Neighbors (KNN)** - A simple, non-parametric supervised learning algorithm that classifies data points based on the majority class among its K nearest neighbors.
